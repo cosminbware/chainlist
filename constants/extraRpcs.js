@@ -1384,6 +1384,11 @@ export const extraRpcs = {
         tracking: "none",
         trackingDetails: privacyStatement.omnia,
       },
+      {
+        url: "https://arbitrum-sepolia.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
+      },
     ],
   },
   8217: {
@@ -1470,6 +1475,11 @@ export const extraRpcs = {
         tracking: "limited",
         trackingDetails: privacyStatement.blockpi,
       },
+      {
+        url: "https://blastl2-sepolia.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
+      },
     ],
   },
 81457: {
@@ -1516,6 +1526,11 @@ export const extraRpcs = {
         url: "https://1rpc.io/opbnb",
         tracking: "none",
         trackingDetails: privacyStatement.onerpc,
+      },
+      {
+        url: "https://opbnb-mainnet.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
       },
     ],
   },
@@ -1921,6 +1936,11 @@ export const extraRpcs = {
         url: "https://1rpc.io/gnosis",
         tracking: "none",
         trackingDetails: privacyStatement.onerpc,
+      },
+      {
+        url: "https://gnosis-mainnet.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
       },
     ],
   },
@@ -2437,6 +2457,11 @@ export const extraRpcs = {
         url: "https://endpoints.omniatech.io/v1/eth/holesky/public",
         tracking: "none",
         trackingDetails: privacyStatement.omnia,
+      },
+      {
+        url: "https://eth-holesky.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
       },
     ],
   },
@@ -2983,6 +3008,11 @@ export const extraRpcs = {
         tracking: "none",
         trackingDetails: privacyStatement.omnia,
       },
+      {
+        url: "https://zksync-mainnet.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
+      },
     ]
   },
   196: {
@@ -3064,6 +3094,11 @@ export const extraRpcs = {
         url: "https://endpoints.omniatech.io/v1/polygon-zkevm/testnet/public",
         tracking: "none",
         trackingDetails: privacyStatement.omnia,
+      },
+      {
+        url: "",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
       },
     ],
   },
@@ -3546,6 +3581,11 @@ export const extraRpcs = {
         url: "https://public.stackup.sh/api/v1/node/base-sepolia",
         tracking: "limited",
         trackingDetails: privacyStatement.stackup,
+      },
+      {
+        url: "https://base-sepolia.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
       },
     ],
   },
@@ -4324,6 +4364,11 @@ export const extraRpcs = {
         tracking: "none",
         trackingDetails: privacyStatement.decubate,
       },
+      {
+        url: "https://linea-mainnet.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
+      },
     ],
   },
 2442: {
@@ -4333,6 +4378,11 @@ export const extraRpcs = {
         tracking: "limited",
         trackingDetails: privacyStatement.blockpi,
        },
+      {
+        url: "https://polygon-zkevm-cardona.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
+      },
      ],
    },
   59140: {
@@ -4347,6 +4397,11 @@ export const extraRpcs = {
         tracking: "limited",
         trackingDetails: privacyStatement.infura,
       },
+      {
+        url: "https://linea-goerli.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
+      },
      ],
    },
    59141: {
@@ -4360,6 +4415,11 @@ export const extraRpcs = {
         url: "https://linea-sepolia.blockpi.network/v1/rpc/public",
         tracking: "limited",
         trackingDetails: privacyStatement.blockpi,
+      },
+      {
+        url: "https://linea-sepolia.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
       },
      ],
    },
@@ -4399,6 +4459,11 @@ export const extraRpcs = {
         url: "https://scroll-testnet.rpc.grove.city/v1/a7a7c8e2",
         tracking: "none",
         trackingDetails: privacyStatement.pokt
+      },
+      {
+        url: "https://scroll-sepolia.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
       },
       "http://scroll-sepolia-rpc.01no.de:8545/",
     ],
@@ -4557,6 +4622,11 @@ export const extraRpcs = {
         url: "wss://rollux.rpc-testnet.pollum.services/wss",
         tracking: "none",
         trackingDetails: privacyStatement.publicnode,
+      },
+      {
+        url: "https://zetachain-mainnet.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
       },
     ]
   },
@@ -4718,6 +4788,11 @@ export const extraRpcs = {
         url: "https://1rpc.io/mode",
         tracking: "none",
         trackingDetails: privacyStatement.onerpc
+      },
+      {
+        url: "https://mode-mainnet.public.blastapi.io",
+        tracking: "limited",
+        trackingDetails: privacyStatement.blastapi,
       },
     ]
   },
